@@ -1,0 +1,11 @@
+{
+  "name": "02-BD",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {},
+  "dependencies": {
+    "knex": "^0.19.3",
+    "mysql": "^2.17.1"
+  }
+}
